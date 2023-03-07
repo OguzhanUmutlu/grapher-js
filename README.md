@@ -1,2 +1,2 @@
 # grapher-js
-A grapher made in JavaScript
+A graphing calculator made in JavaScript
